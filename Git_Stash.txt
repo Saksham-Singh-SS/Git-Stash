@@ -1,1 +1,3 @@
 Git Stash Command file for learning the command.
+Creating 1st Stash.
+Second line for Stash@{1}
