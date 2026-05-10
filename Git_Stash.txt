@@ -3,3 +3,5 @@ Creating 1st Stash.
 Second line for Stash@{1}
 
 Stashing the line.
+Stash Line 1
+Stash Line 2
