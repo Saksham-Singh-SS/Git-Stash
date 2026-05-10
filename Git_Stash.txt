@@ -1,0 +1,1 @@
+Git Stash Command file for learning the command.
